@@ -1,0 +1,11 @@
+{
+  "default_events": [],
+  "default_permissions": {
+    "metadata": "read"
+  },
+  "description": "Starknet Studio Lead. Separate technical scope; common Tokenomy ownership.",
+  "name": "tokenomy-world-starknet-lead",
+  "public": false,
+  "request_oauth_on_install": false,
+  "url": "https://my-agentx101.tokenomy.world/showcase/starknet/"
+}
